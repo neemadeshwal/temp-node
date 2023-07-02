@@ -1,0 +1,31 @@
+so basically node is more like a backend environment where we can run our js code
+it is backend so we dont have any access to dom and other frontend code but we can have access to server side of it like acessig the file system and much more.
+  node contains two environment which is more like a console
+  1. first is repl that stands for read evaluate print loop and it is the basic one.and we can have acess of it by typing simply node.
+  2. second is cli which stand for command line interface which we can have acess by writing node and the js file name along with it in the terminal.
+Globals are some command that we can access everywhere in our  entire project
+some of the imp globals are as follows
+///directory
+__directory gives the locatiaon of the current directory
+__filename gives the name of the file 
+require= it is a function to use modules(CommonJs)
+module=info about current module(file)
+process=info about the environment where the program is going to execute.
+
+module.exports is the keyword to export the module 
+
+built in modules of node js
+1. os(operating system)
+2. path
+3. fs(file system)
+4. Http
+
+Http
+
+
+
+
+
+
+
+  
